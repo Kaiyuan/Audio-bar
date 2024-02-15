@@ -1,6 +1,6 @@
 #Audio bar
 An audio player
-Demo: [http://kaiyuan.github.com/audio-bar/](http://kaiyuan.github.com/audio-bar/)
+Demo: [https://kaiyuan.github.io/Audio-bar/](https://kaiyuan.github.io/Audio-bar/)
 
 ###EXAMPLE HTML
     <audio id="audio-bar" data-img="url" data-text="Text" src=""></audio>
